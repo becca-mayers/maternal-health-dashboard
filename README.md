@@ -10,18 +10,21 @@ Each record is a single maternal patient encounter. The date range is January 20
 Uncover discrepancies in points of care by analyzing a range of encounter-level variables.
 
 # Filtered Search 
-![Filters](https://github.com/becca-mayers/maternal-health-dashboard/blob/main/github-images/visualizations-1.png). 
+![Filters](https://github.com/becca-mayers/maternal-health-dashboard/blob/main/github-images/filters.png). 
 
-# Result 
+# Maps
 ![Delivery Type Maps](https://github.com/becca-mayers/maternal-health-dashboard/blob/main/github-images/linked-chloropleth-maps.png)
-![Population Pie Graphs](https://github.com/becca-mayers/maternal-health-dashboard/blob/main/github-images/population-pie.png)
-![Animated Billed Charges Scatter Plot](https://github.com/becca-mayers/maternal-health-dashboard/blob/main/github-images/animated-scatter-graph.png) 
-![Numeric Statistics Table](https://github.com/becca-mayers/maternal-health-dashboard/blob/main/github-images/numeric-statistics.png)
-![Length of Stay Violin Plot](https://github.com/becca-mayers/maternal-health-dashboard/blob/main/github-images/violin-plot.png)
-![Categorical Statistics Table](https://github.com/becca-mayers/maternal-health-dashboard/blob/main/github-images/categorical-statistics.png)
-![Animated Length of Stay x Age Group Scatter Plot](https://github.com/becca-mayers/maternal-health-dashboard/blob/main/github-images/los-age-animated-graph.png)
-![Delivery Type x Diagnosis Histograms](https://github.com/becca-mayers/maternal-health-dashboard/blob/main/github-images/delivery-type-drg-histos.png)
 
+# Pie Graphs
+![Population Pie Graphs](https://github.com/becca-mayers/maternal-health-dashboard/blob/main/github-images/population-pie.png)
+
+# Animated Plots
+![Animated Billed Charges Scatter Plot](https://github.com/becca-mayers/maternal-health-dashboard/blob/main/github-images/animated-scatter-graph.png) 
+![Animated Length of Stay x Age Group Scatter Plot](https://github.com/becca-mayers/maternal-health-dashboard/blob/main/github-images/los-age-animated-graph.png)
+
+# Statistical Tables
+![Numeric Statistics Table](https://github.com/becca-mayers/maternal-health-dashboard/blob/main/github-images/numeric-statistics.png)
+![Categorical Statistics Table](https://github.com/becca-mayers/maternal-health-dashboard/blob/main/github-images/categorical-statistics.png)
 
 # To Run
 Following the download and unzip, update the scheduler's frequency if needed (codebase set to run hourly), and launch the scheduler from the command line by cd'ing into the unzipped folder and running the command  `python index.py`.
