@@ -8,7 +8,7 @@ Each record is a single maternal patient encounter. The date range is January 20
 Uncover discrepancies in points of care by analyzing a range of encounter-level variables.
 
 # Home
-![Dashboard Home](https://github.com/becca-mayers/maternal-health-dashboard/blob/main/github-images/home.png)
+![Dashboard Home](https://github.com/becca-mayers/maternal-health-dashboard/blob/main/github-images/home.png?raw=true)
 
 # Filtered Search 
 ![Filters](https://github.com/becca-mayers/maternal-health-dashboard/blob/main/github-images/filters.png). 
