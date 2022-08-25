@@ -11,21 +11,21 @@ Uncover discrepancies in points of care by analyzing a range of encounter-level 
 ![Dashboard Home](https://github.com/becca-mayers/maternal-health-dashboard/blob/main/github-images/home.png?raw=true)
 
 # Filtered Search 
-![Filters](https://github.com/becca-mayers/maternal-health-dashboard/blob/main/github-images/filters.png). 
+![Filters](https://github.com/becca-mayers/maternal-health-dashboard/blob/main/github-images/filters.png?raw=true). 
 
 # Maps
-![Delivery Type Maps](https://github.com/becca-mayers/maternal-health-dashboard/blob/main/github-images/linked-chloropleth-maps.png)
+![Delivery Type Maps](https://github.com/becca-mayers/maternal-health-dashboard/blob/main/github-images/linked-chloropleth-maps.png?raw=true)
 
 # Pie Graphs
-![Population Pie Graphs](https://github.com/becca-mayers/maternal-health-dashboard/blob/main/github-images/population-pie.png)
+![Population Pie Graphs](https://github.com/becca-mayers/maternal-health-dashboard/blob/main/github-images/population-pie.png?raw=true)
 
 # Animated Plots
-![Animated Billed Charges Scatter Plot](https://github.com/becca-mayers/maternal-health-dashboard/blob/main/github-images/animated-scatter-graph.png) 
-![Animated Length of Stay x Age Group Scatter Plot](https://github.com/becca-mayers/maternal-health-dashboard/blob/main/github-images/los-age-animated-graph.png)
+![Animated Billed Charges Scatter Plot](https://github.com/becca-mayers/maternal-health-dashboard/blob/main/github-images/animated-scatter-graph.png?raw=true) 
+![Animated Length of Stay x Age Group Scatter Plot](https://github.com/becca-mayers/maternal-health-dashboard/blob/main/github-images/los-age-animated-graph.png?raw=true)
 
 # Statistical Tables
-![Numeric Statistics Table](https://github.com/becca-mayers/maternal-health-dashboard/blob/main/github-images/numeric-statistics.png)
-![Categorical Statistics Table](https://github.com/becca-mayers/maternal-health-dashboard/blob/main/github-images/categorical-statistics.png)
+![Numeric Statistics Table](https://github.com/becca-mayers/maternal-health-dashboard/blob/main/github-images/numeric-statistics.png?raw=true)
+![Categorical Statistics Table](https://github.com/becca-mayers/maternal-health-dashboard/blob/main/github-images/categorical-statistics.png?raw=true)
 
 # To Run
 Following the download and unzip, update the scheduler's frequency if needed (codebase set to run hourly), and launch the scheduler from the command line by cd'ing into the unzipped folder and running the command  `python index.py`.
