@@ -1,5 +1,5 @@
 # maternal-health-dashboard :baby:
-## Multi-page dashboard investigating maternal outcomes and developed with Dash by Plotly. This dashboard demonstrates an examination of physician-documented indications for maternal outcomes by investigating potential contributing indications.  
+Multi-page dashboard investigating maternal outcomes and developed with Dash by Plotly. This dashboard demonstrates an examination of physician-documented indications for maternal outcomes by investigating potential contributing indications.  
 
 # The Data
 Each record is a single maternal patient encounter. The date range is January 2019 to present and variables are sourced from various sources, including [the Social Security Administration](https://www.ssa.gov/cgi-bin/popularnames.cgi), the Centers for Disease Control [Wonder](https://wonder.cdc.gov/wonder/sci_data/codes/fips/type_txt/cntyxref.asp) database, and the [US Census Bureau](https://www.census.gov/topics/population/race/about.html#:~:text=OMB%20requires%20five%20minimum%20categories,Hawaiian%20or%20Other%20Pacific%20Islander). The fictitious facility set is named after the [military alphabet](https://en.wikipedia.org/wiki/NATO_phonetic_alphabet). 
