@@ -9,9 +9,6 @@ Each record is a single maternal patient encounter. The date range is January 20
 # The Goal
 Uncover discrepancies in points of care by analyzing a range of encounter-level variables.
 
-# Filtered Search 
-![Filters](https://github.com/becca-mayers/maternal-health-dashboard/blob/main/github-images/visualizations-1.png). 
-
 # Result 
 ![Delivery Type Maps](https://github.com/becca-mayers/maternal-health-dashboard/blob/main/github-images/linked-chloropleth-maps.png)
 ![Population Pie Graphs](https://github.com/becca-mayers/maternal-health-dashboard/blob/main/github-images/population-pie.png)
